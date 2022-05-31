@@ -22,21 +22,19 @@ body {
     border-radius: 16px;
     width: 624px;
     padding: 32px;
-    
-    
+
+
 }
 
 .card {
     display: flex;
+    align-items: flex-start;
 }
 
 .card__picture {
-
+    margin-right: 24px;
 }
 
-.card__person {
-
-}
 
 .card__name {
     font-size: 36px;
